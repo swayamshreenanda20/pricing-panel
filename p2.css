@@ -1,0 +1,102 @@
+body{
+    background-color:#4497D8   ;
+   
+   
+  }
+  .st{
+     float:left; 
+    background-color:white;
+    margin-left: 23%;
+    
+    
+    width:250px;
+    height:420px;
+    border-radius:10px 0px 0px 10px;
+  
+   }
+   .boxes{
+    padding-top:15%;
+   }
+  .personal{
+    text-align:center;
+    font-weight:bold;
+    font-style:spacemono;
+    margin-top:10px;
+    padding:px;
+    font-size:15px;
+    color:#3F4446; 
+    
+  }
+  .cd{
+    text-align:center;
+    font-weight:bold;
+    font-style:spacemono;
+    margin-top:20px;
+    padding:30px;
+    color:#2D74F8   ;
+    font-size:13px;
+    
+  }
+  span{
+    text-align:center;
+    font-weight:bold;
+    font-style:spacemono;
+    margin-top:20px;
+    padding:30px;
+    color:#183BEC  ;
+    font-size:23px;
+    
+  }
+  button{
+    border-radius:6px;
+    border:0.5px solid grey;
+    width:100px;
+    height:30px;
+    color:#296DEB ;
+    background-color:#EDF1F2;
+    font-size:12.5px;
+    padding:5px;
+    font-weight:bold;
+  }
+  button:hover
+  {
+    background-color:#95989B;
+    box-shadow:20px ;
+  }
+  
+  .nd{
+    
+     float:left; 
+    background-color:white;
+    border-left:1px solid #DDDEDE;
+    width:250px;
+    height:420px;
+    border-radius:0px 0px 0px 0px;
+
+  }
+  
+   
+      
+    
+  
+  .rd{
+    float:left; 
+    background-color:white;
+    border-left:1px solid #DDDEDE ;
+    
+    width:250px;
+    height:420px;
+    border-radius:0px 10px 10px 0px;
+    
+  }
+  button.middle{
+    background-color:#296DEB   ;
+    color:white;
+    font-weight:normal;
+    width:130px;
+  }
+  button.last{
+    width:130px;
+  }
+  
+  
